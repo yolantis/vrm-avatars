@@ -1,2 +1,3 @@
 # vrm-avatars
-https://raw.githubusercontent.com/yolantis/vrm-avatars/main/file.vrm
+to build a link
+https://raw.githubusercontent.com/yolantis/vrm-avatars/main/
