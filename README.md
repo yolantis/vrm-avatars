@@ -4,15 +4,15 @@ to build a link, add this prefix to the filename in github.
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/
 
 links to my avatars:
-https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantis_20230806-dcl-cosmicrobe.vrm
-https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantis_20230806-dcl-witchdress.vrm
-https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Kitty Bustier.vrm
-https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Futuristic-Ava.vrm  works great in mona
-https://raw.githubusercontent.com/yolantis/vrm-avatars/main/yolantis-frauline.vrm
-https://raw.githubusercontent.com/yolantis/vrm-avatars/main/yolantis-blue-kroft.vrm   fail in mona
-https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantisart_d887_20230806-dollhouse-outfit.vrm
-https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantisart_d887_20230806-tuxedo.vrm
-https://raw.githubusercontent.com/yolantis/vrm-avatars/main/callie-packet.vrm
+https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantis_20230806-dcl-cosmicrobe.vrm (cosmic works in mona. hair obstructed by hoodie)
+https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantis_20230806-dcl-witchdress.vrm (witchdress works in mona but the nails may be too much)
+https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Kitty Bustier.vrm (cat ears and bikini works in mona)
+https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Futuristic-Ava.vrm  (ava works great in mona) 
+https://raw.githubusercontent.com/yolantis/vrm-avatars/main/yolantis-frauline.vrm (frauline works in mona)
+https://raw.githubusercontent.com/yolantis/vrm-avatars/main/yolantis-blue-kroft.vrm   (kroft fail in mona)
+https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantisart_d887_20230806-dollhouse-outfit.vrm (dollhouse works in mona)
+https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantisart_d887_20230806-tuxedo.vrm (tux works in mona)
+https://raw.githubusercontent.com/yolantis/vrm-avatars/main/callie-packet.vrm (callie corrupt)
 
 Links to male avatars
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/
