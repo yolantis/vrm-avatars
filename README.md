@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/yolantis/vrm-avatars/main/yolantis-frauline.vr
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/yolantis-blue-kroft.vrm   fail in mona
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantisart_d887_20230806-dollhouse-outfit.vrm
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantisart_d887_20230806-tuxedo.vrm
+https://raw.githubusercontent.com/yolantis/vrm-avatars/main/callie-packet.vrm
 
 Links to male avatars
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/
