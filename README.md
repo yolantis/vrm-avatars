@@ -1,6 +1,6 @@
 # vrm-avatars 
 # monaverse max file size 16 mb. looks like hyperfy doesn't support these links.
-to build a link, add this prefix to the filename in github.
+to build a link, add this prefix to the filename in github. the other way to get the link address will not work in mona. if it has blob in the name don't use it.
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/
 
 links to my avatars:
@@ -13,7 +13,5 @@ https://raw.githubusercontent.com/yolantis/vrm-avatars/main/yolantis-blue-kroft.
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantisart_d887_20230806-dollhouse-outfit.vrm (dollhouse works in mona)
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantisart_d887_20230806-tuxedo.vrm (tux works in mona)
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/callie-packet-optimized-withclaude.vrm (callie is from drifters. claude code reduced the triangles)
-https://github.com/yolantis/vrm-avatars/blob/main/web-render-init-optimized-withclaude-formona.vrm (webrender from drifters. rightclick copy file address)
+https://raw.githubusercontent.com/yolantis/vrm-avatars/main/web-render-init-optimized-withclaude-formona.vrm
 
-Links to male avatars
-https://raw.githubusercontent.com/yolantis/vrm-avatars/main/
