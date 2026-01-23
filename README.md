@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/yolantis/vrm-avatars/main/yolantis-frauline.vr
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/yolantis-blue-kroft.vrm   (kroft fail in mona)
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantisart_d887_20230806-dollhouse-outfit.vrm (dollhouse works in mona)
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantisart_d887_20230806-tuxedo.vrm (tux works in mona)
-https://raw.githubusercontent.com/yolantis/vrm-avatars/main/callie-packet.vrm (callie corrupt)
+https://raw.githubusercontent.com/yolantis/vrm-avatars/main/callie-packet-optimized-withclaude.vrm (callie is from drifters. claude code reduced the triangles)
 
 Links to male avatars
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/
