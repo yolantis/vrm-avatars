@@ -14,4 +14,5 @@ https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantisart_d887_202
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/Yolantisart_d887_20230806-tuxedo.vrm (tux works in mona)
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/callie-packet-optimized-withclaude.vrm (callie is from drifters. claude code reduced the triangles)
 https://raw.githubusercontent.com/yolantis/vrm-avatars/main/web-render-init-optimized-withclaude-formona.vrm
+https://raw.githubusercontent.com/yolantis/vrm-avatars/main/vroid-blue-croft-optimized.vrm
 
